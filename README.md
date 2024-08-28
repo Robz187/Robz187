@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robz187
-- 👀 I’m interested in becoming a Web Developer
-- 🌱 I’m currently learning with udemy 
+- 👀 I’m a Freelancing Web Dev wanting to become fully employed 1 day
+- 🌱 I’m currently working @Raiffeisen 
 - 📫 How to reach me via discord just add: robz1008
 
 <!---
